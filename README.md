@@ -1,5 +1,5 @@
-    <h1>Finetuning GPT für Pflegebegutachtung</h1>
-    <p>Dieses Repository zielt darauf ab, die Entwicklung eines speziell angepassten GPT-Modells für die Pflegebegutachtung voranzutreiben. Durch das Fine-Tuning von GPT auf spezifische Datensätze, die im Bereich der Pflegebegutachtung relevant sind, streben wir an, ein Modell zu entwickeln, das präzise und relevante Antworten auf Fragen in diesem Kontext liefern kann. Unser langfristiges Ziel ist die Schaffung eines leistungsfähigen Chatbots oder eines Pflegebegutachtungs-Agenten, der die Effizienz und Genauigkeit in der Pflegebegutachtung erheblich verbessern kann.</p>
+<h1>Finetuning GPT für Pflegebegutachtung</h1>
+Dieses Repository zielt darauf ab, die Entwicklung eines speziell angepassten GPT-Modells für die Pflegebegutachtung voranzutreiben. Durch das Fine-Tuning von GPT auf spezifische Datensätze, die im Bereich der Pflegebegutachtung relevant sind, streben wir an, ein Modell zu entwickeln, das präzise und relevante Antworten auf Fragen in diesem Kontext liefern kann. Unser langfristiges Ziel ist die Schaffung eines leistungsfähigen Chatbots oder eines Pflegebegutachtungs-Agenten, der die Effizienz und Genauigkeit in der Pflegebegutachtung erheblich verbessern kann.
     <p>Aktuell stellen wir im Repository Datensätze zur Verbesserung des Modul 1 der Pflegebegutachtung bereit. Die Entwicklung und Verbesserung der anderen Module erfolgen intern.</p>
     <h2>Wie Sie beitragen können</h2>
     <h3>Datensätze</h3>
