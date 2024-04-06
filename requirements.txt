@@ -2,3 +2,6 @@ openai
 numpy
 pandas
 python-dotenv
+tiktoken
+matplotlib
+openpyxl
