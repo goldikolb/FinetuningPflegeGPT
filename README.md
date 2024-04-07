@@ -52,7 +52,7 @@ Wenn Sie Fragen haben oder einen Beitrag leisten möchten, zögern Sie nicht, un
 
 Social Media
 
-[![Threads](https://img.shields.io/badge/Threads-Follow%20me-blue?style=flat&logo=Thread&logoColor=white)]([DEINE_THREADS_PROFILE_URL](https://www.threads.net/@pflege_ki))
+[![Threads](https://img.shields.io/badge/Threads-Follow%20me-blue?style=flat&logo=Thread&logoColor=white)](https://www.threads.net/@pflege_ki))
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ai_fuerth?style=social)](https://twitter.com/ai_fuerth)
 
