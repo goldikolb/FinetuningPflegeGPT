@@ -50,7 +50,7 @@ Wenn Sie Fragen haben oder einen Beitrag leisten möchten, zögern Sie nicht, un
 
 [![Website](https://img.shields.io/badge/Pflege--AI-Webseite-%230f0122?style=flat&logo=Web&logoColor=ff8154)](https://pflege-ai.de/)
 
-Social Media
+## Follow me on Social Media
 
 [![Threads](https://img.shields.io/badge/Threads-Follow%20me-blue?style=flat&logo=Thread&logoColor=white)](https://www.threads.net/@pflege_ki))
 
