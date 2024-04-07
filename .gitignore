@@ -1,2 +1,5 @@
 myenv/
 .env
+validierung/tests
+validierung/inputs
+validierung/outputs
