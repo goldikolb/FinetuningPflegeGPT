@@ -12,7 +12,8 @@ Der neu hinzugefügte Jupyter Notebook 'normalize_content.ipynb' ist darauf ausg
 
 #### Wichtiger Hinweis
 
-Für die Nutzung dieser Funktionalität ist ein API-Schlüssel für Unstructured erforderlich. Bitte stellen Sie sicher, dass Sie einen gültigen API-Schlüssel besitzen, um die APIs vollumfänglich nutzen zu können. Die API-URL, die Sie für Anfragen verwenden, ist: [Webseite](https://api.unstructured.io/general/v0/general)
+Für die Nutzung dieser Funktionalität ist ein API-Schlüssel für Unstructured erforderlich. Bitte stellen Sie sicher, dass Sie einen gültigen API-Schlüssel besitzen, um die APIs vollumfänglich nutzen zu können. Die API-URL, die Sie für Anfragen verwenden, ist: https://api.unstructured.io/general/v0/general
+
 Weitere Informationen zur API und wie Sie einen API-Schlüssel erhalten können, finden Sie auf der offiziellen API-Seite: [Webseite](https://unstructured.io/api-key-free)
 
 ### Benchmarking
