@@ -3,3 +3,5 @@ myenv/
 validierung/tests
 validierung/inputs
 validierung/outputs
+packages/.env
+my_files

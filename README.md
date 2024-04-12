@@ -6,6 +6,15 @@ Aktuell stellen wir im Repository Datensätze zur Verbesserung des Moduls 1 der 
 
 ## Neue Ressourcen im Repository
 
+### Normalisierung von Inhalten
+
+Der neu hinzugefügte Jupyter Notebook 'normalize_content.ipynb' ist darauf ausgelegt, Inhalte aus HTML-, PPTX- oder PDF-Dateien in ein JSON-Format zu konvertieren. Diese Funktionalität unterstützt die Optimierung der Ausgabe für RAG (Retrieval-Augmented Generation), indem sie die Integration der Informationen in Vektordatenbanken erleichtert. Dies ist besonders nützlich, um die Effizienz der Datenabfrage und -verarbeitung in KI-Anwendungen zu verbessern.
+
+#### Wichtiger Hinweis
+
+Für die Nutzung dieser Funktionalität ist ein API-Schlüssel für Unstructured erforderlich. Bitte stellen Sie sicher, dass Sie einen gültigen API-Schlüssel besitzen, um die APIs vollumfänglich nutzen zu können. Die API-URL, die Sie für Anfragen verwenden, ist: [Webseite](https://api.unstructured.io/general/v0/general)
+Weitere Informationen zur API und wie Sie einen API-Schlüssel erhalten können, finden Sie auf der offiziellen API-Seite: [Webseite](https://unstructured.io/api-key-free)
+
 ### Benchmarking
 
 Im Ordner `Benchmarking` befindet sich eine Datei, die Ihnen ermöglicht, die Leistung verschiedener Modellversionen miteinander zu vergleichen. Diese Tools sind essentiell für die Erstellung und Auswertung eigener Benchmarks und unterstützen bei der objektiven Beurteilung der Modellperformance.
@@ -52,7 +61,7 @@ Wenn Sie Fragen haben oder einen Beitrag leisten möchten, zögern Sie nicht, un
 
 ## Follow me on Social Media
 
-[![Threads](https://img.shields.io/badge/Threads-Follow%20me-blue?style=flat&logo=Thread&logoColor=white)](https://www.threads.net/@pflege_ki))
+[![Threads](https://img.shields.io/badge/Threads-Follow%20me-blue?style=flat&logo=Thread&logoColor=white)](https://www.threads.net/@pflege_ki)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ai_fuerth?style=social)](https://twitter.com/ai_fuerth)
 

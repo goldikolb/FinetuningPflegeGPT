@@ -5,3 +5,8 @@ python-dotenv
 tiktoken
 matplotlib
 openpyxl
+unstructured
+python-pptx
+ipython==8.18.1
+unstructured-client==0.16.0
+unstructured-inference
